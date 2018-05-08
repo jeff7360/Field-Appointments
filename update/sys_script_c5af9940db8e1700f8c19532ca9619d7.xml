@@ -39,11 +39,12 @@
 	// Get Watch List from Appointment User and set to Watch List on Appointment
 	var gr = new GlideRecord('x_tech5_field_appo_appointment_users');
 	
-	gr.addQuery('u_user', current.u_customer);
+	gr.addQuery('sys_id', current.u_customer.sys_id);
 	gr.query();
 	
 	if (gr.next()) {
 		current.watch_list = gr.u_watch_list;
+		//current.update();
 	}
 
 })(current, previous);]]></script>
@@ -53,7 +54,7 @@
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>c5af9940db8e1700f8c19532ca9619d7</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>FAPT Copy Fields from user to APT</sys_name>
         <sys_overrides/>
         <sys_package display_value="Field Appointments" source="x_tech5_field_appo">c12b4500db4e1700f8c19532ca96197d</sys_package>
@@ -62,7 +63,7 @@
         <sys_scope display_value="Field Appointments">c12b4500db4e1700f8c19532ca96197d</sys_scope>
         <sys_update_name>sys_script_c5af9940db8e1700f8c19532ca9619d7</sys_update_name>
         <sys_updated_by>deanj</sys_updated_by>
-        <sys_updated_on>2018-05-08 15:37:46</sys_updated_on>
+        <sys_updated_on>2018-05-08 16:24:58</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
