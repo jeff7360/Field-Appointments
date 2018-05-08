@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Field Appointments" max_length="40" name="x_tech5_field_appo_field_appointments" type="collection">
+    <element extends="task" label="Field Appointments" max_length="40" name="x_tech5_field_appo_field_appointments" sizeclass="6" type="collection">
         <element display="true" label="Customer" mandatory="true" max_length="32" name="u_customer" reference="x_tech5_field_appo_appointment_users" type="reference"/>
     </element>
 </database>
