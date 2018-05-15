@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="" label="Field Visit Log" language="en" table="x_tech5_field_appo_field_appointments">
+    <sys_documentation element="description" label="Issues" language="en" table="x_tech5_field_appo_field_appointments">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>description</element>
             <help/>
             <hint/>
-            <label>Field Visit Log</label>
+            <label>Issues</label>
             <language>en</language>
             <name>x_tech5_field_appo_field_appointments</name>
-            <plural>Field Visit Logs</plural>
+            <plural>Issues</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>deanj</sys_created_by>
-            <sys_created_on>2018-05-08 14:03:05</sys_created_on>
+            <sys_created_on>2018-05-15 17:49:31</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>ba1c4104db4e1700f8c19532ca9619ab</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_name>Field Visit Log</sys_name>
+            <sys_id>4013cadadb0ad300e994a103ca961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Issues</sys_name>
             <sys_package display_value="Field Appointments" source="x_tech5_field_appo">c12b4500db4e1700f8c19532ca96197d</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Field Appointments">c12b4500db4e1700f8c19532ca96197d</sys_scope>
-            <sys_update_name>sys_documentation_x_tech5_field_appo_field_appointments__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_tech5_field_appo_field_appointments_description_en</sys_update_name>
             <sys_updated_by>deanj</sys_updated_by>
-            <sys_updated_on>2018-05-15 17:42:06</sys_updated_on>
+            <sys_updated_on>2018-05-15 17:49:31</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

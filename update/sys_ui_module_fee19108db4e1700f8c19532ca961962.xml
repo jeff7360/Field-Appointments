@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Field Appointments">2a1c4104db4e1700f8c19532ca96191e</application>
+        <application display_value="Field Visit Log">2a1c4104db4e1700f8c19532ca96191e</application>
         <filter/>
         <name>Appointment Users</name>
         <order/>
