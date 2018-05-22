@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Appointment Users" max_length="40" name="x_tech5_field_appo_appointment_users" type="collection">
+    <element label="Key Business Users" max_length="40" name="x_tech5_field_appo_appointment_users" type="collection">
         <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Building Location" max_length="200" name="u_building_location" read_only="true" type="string"/>
         <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Location" max_length="32" name="u_location" read_only="true" reference="cmn_location" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Office" mandatory="true" max_length="40" name="u_office" type="string"/>

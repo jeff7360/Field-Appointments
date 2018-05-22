@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
-        <sc_cat_item display_value="Add an Appointment User">1e2fa188db8e1700f8c19532ca961916</sc_cat_item>
+        <sc_cat_item display_value="Add a Key Business User">1e2fa188db8e1700f8c19532ca961916</sc_cat_item>
         <sc_category display_value="Non-Standard Requests">9be4a8cadb389b00e994a103ca961966</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>deanj</sys_created_by>

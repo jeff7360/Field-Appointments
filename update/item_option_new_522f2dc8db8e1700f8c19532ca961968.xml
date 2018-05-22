@@ -3,7 +3,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes>glide_list</attributes>
-        <cat_item display_value="Add an Appointment User">1e2fa188db8e1700f8c19532ca961916</cat_item>
+        <cat_item display_value="Add a Key Business User">1e2fa188db8e1700f8c19532ca961916</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
