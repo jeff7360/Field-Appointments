@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>false</action>
+        <action_event>next</action_event>
+        <action_target/>
+        <action_target_ref display_value="cebff6dddbe61300f8c19532ca96197e.4.xpath">5061cfdddbe61300f8c19532ca9619b1</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[Enter the name of a user who wishes to subscribe to the Key Business User. Users and emails listed will receive notifications when new Visit Logs are recorded.]]></content>
+        <guide display_value="Add a Key Business User">cebff6dddbe61300f8c19532ca96197e</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>Step 4</name>
+        <options/>
+        <order>4</order>
+        <placement>bottom</placement>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>deanj</sys_created_by>
+        <sys_created_on>2018-06-06 16:19:16</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5061cfdddbe61300f8c19532ca961968</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Step 4</sys_name>
+        <sys_package display_value="Field Appointments" source="x_tech5_field_appo">c12b4500db4e1700f8c19532ca96197d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Field Appointments">c12b4500db4e1700f8c19532ca96197d</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_5061cfdddbe61300f8c19532ca961968</sys_update_name>
+        <sys_updated_by>deanj</sys_updated_by>
+        <sys_updated_on>2018-06-06 16:19:16</sys_updated_on>
+        <target/>
+        <target_ref display_value="cebff6dddbe61300f8c19532ca96197e.4.xpath">5061cfdddbe61300f8c19532ca9619b1</target_ref>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>x_tech5_field_appo_appointment_users.do</window>
+    </sys_embedded_tour_step>
+</record_update>
