@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="Visit Log" max_length="40" name="x_tech5_field_appo_field_appointments" sizeclass="2" type="collection">
-        <element display="true" label="Customer" mandatory="true" max_length="32" name="u_customer" reference="x_tech5_field_appo_appointment_users" type="reference"/>
+    <element audit="true" extends="task" label="Visit Log" max_length="40" name="x_tech5_field_appo_field_appointments" sizeclass="4" type="collection">
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Customer" mandatory="true" max_length="1024" name="u_customer_list" reference="x_tech5_field_appo_appointment_users" type="glide_list"/>
         <element attributes="edge_encryption_enabled=true" label="GBU/RBU" mandatory="true" max_length="40" name="u_gbu_rbu" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Visit Location" mandatory="true" max_length="40" name="u_office" type="string"/>
-        <element label="Visit Comments" max_length="4000" name="u_visit_comments" type="journal"/>
+        <element label="Notes" max_length="4000" name="u_visit_comments" type="journal"/>
     </element>
 </database>

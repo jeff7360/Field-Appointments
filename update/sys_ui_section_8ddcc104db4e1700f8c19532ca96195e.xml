@@ -5,27 +5,27 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>deanj</sys_created_by>
-            <sys_created_on>2018-05-22 14:29:26</sys_created_on>
-            <sys_id>d5681d20db1e5b00f8c19532ca961936</sys_id>
+            <sys_created_on>2018-06-19 13:49:15</sys_created_on>
+            <sys_id>29bb9da9dbf21700afbba103ca961981</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_tech5_field_appo_field_appointments" sys_domain="global" view="Default view">8ddcc104db4e1700f8c19532ca96195e</sys_ui_section>
             <sys_updated_by>deanj</sys_updated_by>
-            <sys_updated_on>2018-05-22 14:29:26</sys_updated_on>
+            <sys_updated_on>2018-06-19 13:49:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_customer</element>
+            <element>u_customer_list</element>
             <position>1</position>
             <sys_created_by>deanj</sys_created_by>
-            <sys_created_on>2018-05-22 14:29:26</sys_created_on>
-            <sys_id>5d681d20db1e5b00f8c19532ca961936</sys_id>
+            <sys_created_on>2018-06-19 13:49:15</sys_created_on>
+            <sys_id>a9bb9da9dbf21700afbba103ca961981</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_tech5_field_appo_field_appointments" sys_domain="global" view="Default view">8ddcc104db4e1700f8c19532ca96195e</sys_ui_section>
             <sys_updated_by>deanj</sys_updated_by>
-            <sys_updated_on>2018-05-22 14:29:26</sys_updated_on>
+            <sys_updated_on>2018-06-19 13:49:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,83 +33,69 @@
             <element>assigned_to</element>
             <position>2</position>
             <sys_created_by>deanj</sys_created_by>
-            <sys_created_on>2018-05-22 14:29:26</sys_created_on>
-            <sys_id>dd681d20db1e5b00f8c19532ca961936</sys_id>
+            <sys_created_on>2018-06-19 13:49:15</sys_created_on>
+            <sys_id>2dbb9da9dbf21700afbba103ca961981</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_tech5_field_appo_field_appointments" sys_domain="global" view="Default view">8ddcc104db4e1700f8c19532ca96195e</sys_ui_section>
             <sys_updated_by>deanj</sys_updated_by>
-            <sys_updated_on>2018-05-22 14:29:26</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>watch_list</element>
-            <position>3</position>
-            <sys_created_by>deanj</sys_created_by>
-            <sys_created_on>2018-05-22 14:29:26</sys_created_on>
-            <sys_id>51681d20db1e5b00f8c19532ca961937</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_tech5_field_appo_field_appointments" sys_domain="global" view="Default view">8ddcc104db4e1700f8c19532ca96195e</sys_ui_section>
-            <sys_updated_by>deanj</sys_updated_by>
-            <sys_updated_on>2018-05-22 14:29:26</sys_updated_on>
+            <sys_updated_on>2018-06-19 13:49:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>deanj</sys_created_by>
-            <sys_created_on>2018-05-22 14:29:26</sys_created_on>
-            <sys_id>d1681d20db1e5b00f8c19532ca961937</sys_id>
+            <sys_created_on>2018-06-19 13:49:15</sys_created_on>
+            <sys_id>adbb9da9dbf21700afbba103ca961981</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_tech5_field_appo_field_appointments" sys_domain="global" view="Default view">8ddcc104db4e1700f8c19532ca96195e</sys_ui_section>
             <sys_updated_by>deanj</sys_updated_by>
-            <sys_updated_on>2018-05-22 14:29:26</sys_updated_on>
+            <sys_updated_on>2018-06-19 13:49:15</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>expected_start</element>
-            <position>5</position>
+            <position>4</position>
             <sys_created_by>deanj</sys_created_by>
-            <sys_created_on>2018-05-22 14:29:26</sys_created_on>
-            <sys_id>55681d20db1e5b00f8c19532ca961937</sys_id>
+            <sys_created_on>2018-06-19 13:49:15</sys_created_on>
+            <sys_id>21bb9da9dbf21700afbba103ca961982</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_tech5_field_appo_field_appointments" sys_domain="global" view="Default view">8ddcc104db4e1700f8c19532ca96195e</sys_ui_section>
             <sys_updated_by>deanj</sys_updated_by>
-            <sys_updated_on>2018-05-22 14:29:26</sys_updated_on>
+            <sys_updated_on>2018-06-19 13:49:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_office</element>
-            <position>6</position>
+            <position>5</position>
             <sys_created_by>deanj</sys_created_by>
-            <sys_created_on>2018-05-22 14:29:26</sys_created_on>
-            <sys_id>d5681d20db1e5b00f8c19532ca961937</sys_id>
+            <sys_created_on>2018-06-19 13:49:15</sys_created_on>
+            <sys_id>a1bb9da9dbf21700afbba103ca961982</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_tech5_field_appo_field_appointments" sys_domain="global" view="Default view">8ddcc104db4e1700f8c19532ca96195e</sys_ui_section>
             <sys_updated_by>deanj</sys_updated_by>
-            <sys_updated_on>2018-05-22 14:29:26</sys_updated_on>
+            <sys_updated_on>2018-06-19 13:49:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_gbu_rbu</element>
-            <position>7</position>
+            <element>watch_list</element>
+            <position>6</position>
             <sys_created_by>deanj</sys_created_by>
-            <sys_created_on>2018-05-22 14:29:26</sys_created_on>
-            <sys_id>59681d20db1e5b00f8c19532ca961937</sys_id>
+            <sys_created_on>2018-06-19 13:49:15</sys_created_on>
+            <sys_id>25bb9da9dbf21700afbba103ca961982</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_tech5_field_appo_field_appointments" sys_domain="global" view="Default view">8ddcc104db4e1700f8c19532ca96195e</sys_ui_section>
             <sys_updated_by>deanj</sys_updated_by>
-            <sys_updated_on>2018-05-22 14:29:26</sys_updated_on>
+            <sys_updated_on>2018-06-19 13:49:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

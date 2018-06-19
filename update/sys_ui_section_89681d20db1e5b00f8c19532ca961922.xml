@@ -5,69 +5,55 @@
             <element>short_description</element>
             <position>0</position>
             <sys_created_by>deanj</sys_created_by>
-            <sys_created_on>2018-05-22 14:41:47</sys_created_on>
-            <sys_id>9a3bd9a0db1e5b00f8c19532ca961957</sys_id>
+            <sys_created_on>2018-06-19 13:39:38</sys_created_on>
+            <sys_id>38891969dbf21700afbba103ca961964</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Details of Visit" display_value="Details of Visit" name="x_tech5_field_appo_field_appointments" sys_domain="global" view="Default view">89681d20db1e5b00f8c19532ca961922</sys_ui_section>
             <sys_updated_by>deanj</sys_updated_by>
-            <sys_updated_on>2018-05-22 14:41:47</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>description</element>
-            <position>1</position>
-            <sys_created_by>deanj</sys_created_by>
-            <sys_created_on>2018-05-22 14:41:47</sys_created_on>
-            <sys_id>1e3bd9a0db1e5b00f8c19532ca961957</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Details of Visit" display_value="Details of Visit" name="x_tech5_field_appo_field_appointments" sys_domain="global" view="Default view">89681d20db1e5b00f8c19532ca961922</sys_ui_section>
-            <sys_updated_by>deanj</sys_updated_by>
-            <sys_updated_on>2018-05-22 14:41:47</sys_updated_on>
+            <sys_updated_on>2018-06-19 13:39:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_visit_comments</element>
-            <position>2</position>
+            <position>1</position>
             <sys_created_by>deanj</sys_created_by>
-            <sys_created_on>2018-05-22 14:41:47</sys_created_on>
-            <sys_id>9e3bd9a0db1e5b00f8c19532ca961957</sys_id>
+            <sys_created_on>2018-06-19 13:39:38</sys_created_on>
+            <sys_id>b8891969dbf21700afbba103ca961964</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Details of Visit" display_value="Details of Visit" name="x_tech5_field_appo_field_appointments" sys_domain="global" view="Default view">89681d20db1e5b00f8c19532ca961922</sys_ui_section>
             <sys_updated_by>deanj</sys_updated_by>
-            <sys_updated_on>2018-05-22 14:41:47</sys_updated_on>
+            <sys_updated_on>2018-06-19 13:39:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>activity.xml</element>
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>deanj</sys_created_by>
-            <sys_created_on>2018-05-22 14:41:47</sys_created_on>
-            <sys_id>123bd9a0db1e5b00f8c19532ca961958</sys_id>
+            <sys_created_on>2018-06-19 13:39:38</sys_created_on>
+            <sys_id>3c891969dbf21700afbba103ca961964</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
             <sys_ui_section caption="Details of Visit" display_value="Details of Visit" name="x_tech5_field_appo_field_appointments" sys_domain="global" view="Default view">89681d20db1e5b00f8c19532ca961922</sys_ui_section>
             <sys_updated_by>deanj</sys_updated_by>
-            <sys_updated_on>2018-05-22 14:41:47</sys_updated_on>
+            <sys_updated_on>2018-06-19 13:39:38</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>activity.xml</element>
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>deanj</sys_created_by>
-            <sys_created_on>2018-05-22 14:41:47</sys_created_on>
-            <sys_id>163bd9a0db1e5b00f8c19532ca961958</sys_id>
+            <sys_created_on>2018-06-19 13:39:38</sys_created_on>
+            <sys_id>30891969dbf21700afbba103ca961965</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Activities (filtered)">b832d3560a0001c700d781efe21e22f5</sys_ui_formatter>
             <sys_ui_section caption="Details of Visit" display_value="Details of Visit" name="x_tech5_field_appo_field_appointments" sys_domain="global" view="Default view">89681d20db1e5b00f8c19532ca961922</sys_ui_section>
             <sys_updated_by>deanj</sys_updated_by>
-            <sys_updated_on>2018-05-22 14:41:47</sys_updated_on>
+            <sys_updated_on>2018-06-19 13:39:38</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
