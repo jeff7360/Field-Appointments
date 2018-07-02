@@ -4,92 +4,17 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_user</element>
-            <list_id display_value="x_tech5_field_appo_appointment_users" element="NULL" name="x_tech5_field_appo_appointment_users" parent="NULL" relationship="NULL" sys_domain="global" view="4360d6bd4a3599d2016ff7f9258e7c82">f9c2b18cdb8e1700f8c19532ca9619df</list_id>
+            <list_id display_value="x_tech5_field_appo_appointment_users" element="NULL" name="x_tech5_field_appo_appointment_users" parent="NULL" relationship="NULL" sys_domain="global" view="4360d6bd4a3599d2016ff7f9258e7c82">a6ce21a5db361700afbba103ca961950</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>deanj</sys_created_by>
-            <sys_created_on>2018-05-08 16:52:02</sys_created_on>
-            <sys_id>71c2b18cdb8e1700f8c19532ca9619e0</sys_id>
+            <sys_created_on>2018-06-19 15:12:36</sys_created_on>
+            <sys_id>2ece21a5db361700afbba103ca961950</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>deanj</sys_updated_by>
-            <sys_updated_on>2018-05-08 16:52:02</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>u_user.user_name</element>
-            <list_id display_value="x_tech5_field_appo_appointment_users" element="NULL" name="x_tech5_field_appo_appointment_users" parent="NULL" relationship="NULL" sys_domain="global" view="4360d6bd4a3599d2016ff7f9258e7c82">f9c2b18cdb8e1700f8c19532ca9619df</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>1</position>
-            <sum>false</sum>
-            <sys_created_by>deanj</sys_created_by>
-            <sys_created_on>2018-05-08 16:52:02</sys_created_on>
-            <sys_id>f1c2b18cdb8e1700f8c19532ca9619e0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>deanj</sys_updated_by>
-            <sys_updated_on>2018-05-08 16:52:02</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>u_user.email</element>
-            <list_id display_value="x_tech5_field_appo_appointment_users" element="NULL" name="x_tech5_field_appo_appointment_users" parent="NULL" relationship="NULL" sys_domain="global" view="4360d6bd4a3599d2016ff7f9258e7c82">f9c2b18cdb8e1700f8c19532ca9619df</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>2</position>
-            <sum>false</sum>
-            <sys_created_by>deanj</sys_created_by>
-            <sys_created_on>2018-05-08 16:52:02</sys_created_on>
-            <sys_id>75c2b18cdb8e1700f8c19532ca9619e0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>deanj</sys_updated_by>
-            <sys_updated_on>2018-05-08 16:52:02</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>u_location</element>
-            <list_id display_value="x_tech5_field_appo_appointment_users" element="NULL" name="x_tech5_field_appo_appointment_users" parent="NULL" relationship="NULL" sys_domain="global" view="4360d6bd4a3599d2016ff7f9258e7c82">f9c2b18cdb8e1700f8c19532ca9619df</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>3</position>
-            <sum>false</sum>
-            <sys_created_by>deanj</sys_created_by>
-            <sys_created_on>2018-05-08 16:52:02</sys_created_on>
-            <sys_id>f5c2b18cdb8e1700f8c19532ca9619e0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>deanj</sys_updated_by>
-            <sys_updated_on>2018-05-08 16:52:02</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>u_building_location</element>
-            <list_id display_value="x_tech5_field_appo_appointment_users" element="NULL" name="x_tech5_field_appo_appointment_users" parent="NULL" relationship="NULL" sys_domain="global" view="4360d6bd4a3599d2016ff7f9258e7c82">f9c2b18cdb8e1700f8c19532ca9619df</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>4</position>
-            <sum>false</sum>
-            <sys_created_by>deanj</sys_created_by>
-            <sys_created_on>2018-05-08 16:52:02</sys_created_on>
-            <sys_id>79c2b18cdb8e1700f8c19532ca9619e0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>deanj</sys_updated_by>
-            <sys_updated_on>2018-05-08 16:52:02</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>u_office</element>
-            <list_id display_value="x_tech5_field_appo_appointment_users" element="NULL" name="x_tech5_field_appo_appointment_users" parent="NULL" relationship="NULL" sys_domain="global" view="4360d6bd4a3599d2016ff7f9258e7c82">f9c2b18cdb8e1700f8c19532ca9619df</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>5</position>
-            <sum>false</sum>
-            <sys_created_by>deanj</sys_created_by>
-            <sys_created_on>2018-05-08 16:52:02</sys_created_on>
-            <sys_id>f9c2b18cdb8e1700f8c19532ca9619e0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>deanj</sys_updated_by>
-            <sys_updated_on>2018-05-08 16:52:02</sys_updated_on>
+            <sys_updated_on>2018-06-19 15:12:36</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -103,10 +28,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>deanj</sys_created_by>
-            <sys_created_on>2018-05-08 16:52:02</sys_created_on>
+            <sys_created_on>2018-06-19 15:12:36</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
-            <sys_id>f9c2b18cdb8e1700f8c19532ca9619df</sys_id>
+            <sys_id>a6ce21a5db361700afbba103ca961950</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_tech5_field_appo_appointment_users</sys_name>
             <sys_package display_value="Field Appointments" source="x_tech5_field_appo">c12b4500db4e1700f8c19532ca96197d</sys_package>
@@ -115,7 +40,7 @@
             <sys_scope display_value="Field Appointments">c12b4500db4e1700f8c19532ca96197d</sys_scope>
             <sys_update_name>sys_ui_list_x_tech5_field_appo_appointment_users_sys_ref_list</sys_update_name>
             <sys_updated_by>deanj</sys_updated_by>
-            <sys_updated_on>2018-05-08 16:52:02</sys_updated_on>
+            <sys_updated_on>2018-06-19 15:12:36</sys_updated_on>
             <sys_user/>
             <view display_value="Reference List" name="sys_ref_list">4360d6bd4a3599d2016ff7f9258e7c82</view>
             <view_name/>
