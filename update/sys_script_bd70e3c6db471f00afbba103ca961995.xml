@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_label/>
+        <action_name/>
+        <action_query>false</action_query>
+        <action_run_at>server</action_run_at>
+        <action_update>true</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <application/>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_tech5_field_appo_field_appointments</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>Set Watch List</name>
+        <onclick/>
+        <order>100</order>
+        <priority>100</priority>
+        <read_access_action>false</read_access_action>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+	
+	var customer = current.getValue('u_customer');
+	var wList = new GlideRecord('x_tech5_field_appo_appointment_users');
+	wList.addQuery('sys_id', customer);
+	wList.query();
+	
+	if (wList.next()) {
+		current.watch_list = wList.u_watch_list;
+	} else {
+		gs.info('Number : ' + current.number + 'Customer: ' + customer + ', wList : ' + wList + ', Watch List : ' + wList.u_watch_list + ', Old Watch List : ' + current.watch_list, 'Visit Log');
+	}
+	
+	
+	
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>deanj</sys_created_by>
+        <sys_created_on>2018-07-03 23:02:29</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>bd70e3c6db471f00afbba103ca961995</sys_id>
+        <sys_mod_count>22</sys_mod_count>
+        <sys_name>Set Watch List</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Field Appointments" source="x_tech5_field_appo">c12b4500db4e1700f8c19532ca96197d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Field Appointments">c12b4500db4e1700f8c19532ca96197d</sys_scope>
+        <sys_update_name>sys_script_bd70e3c6db471f00afbba103ca961995</sys_update_name>
+        <sys_updated_by>deanj</sys_updated_by>
+        <sys_updated_on>2018-07-04 00:45:00</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+</record_update>
