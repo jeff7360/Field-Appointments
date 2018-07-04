@@ -27,7 +27,7 @@
         <element_reference>false</element_reference>
         <foreign_database/>
         <internal_type display_value="String">string</internal_type>
-        <mandatory>true</mandatory>
+        <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>x_tech5_field_appo_field_appointments</name>
         <next_element/>
@@ -49,7 +49,7 @@
         <sys_created_on>2018-05-15 18:09:01</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>e5878e5edb0ad300e994a103ca961948</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Visit Location</sys_name>
         <sys_package display_value="Field Appointments" source="x_tech5_field_appo">c12b4500db4e1700f8c19532ca96197d</sys_package>
         <sys_policy/>
@@ -57,7 +57,7 @@
         <sys_scope display_value="Field Appointments">c12b4500db4e1700f8c19532ca96197d</sys_scope>
         <sys_update_name>sys_dictionary_x_tech5_field_appo_field_appointments_u_office</sys_update_name>
         <sys_updated_by>deanj</sys_updated_by>
-        <sys_updated_on>2018-05-22 14:17:34</sys_updated_on>
+        <sys_updated_on>2018-07-04 00:47:41</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <u_service_desk/>

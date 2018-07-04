@@ -4,8 +4,8 @@
         <element label="Customer" mandatory="true" max_length="32" name="u_customer" reference="x_tech5_field_appo_appointment_users" type="reference"/>
         <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Customer(s)" max_length="1024" name="u_customer_list" reference="x_tech5_field_appo_appointment_users" type="glide_list"/>
         <element attributes="edge_encryption_enabled=true" label="GBU/RBU" mandatory="true" max_length="40" name="u_gbu_rbu" type="string"/>
-        <element label="IT Representative" mandatory="true" max_length="32" name="u_it_rep" reference="sys_user" type="reference"/>
-        <element attributes="edge_encryption_enabled=true" label="Visit Location" mandatory="true" max_length="40" name="u_office" type="string"/>
+        <element label="IT Representative" max_length="32" name="u_it_rep" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Visit Location" max_length="40" name="u_office" type="string"/>
         <element label="Notes" max_length="4000" name="u_visit_comments" type="journal"/>
     </element>
 </database>
